@@ -3,6 +3,3 @@
   command = "astro build"
   functions = ".netlify/functions-internal"
   publish = "dist"
-
-[functions]
-  external_node_modules = ["i18next-fs-backend"]
